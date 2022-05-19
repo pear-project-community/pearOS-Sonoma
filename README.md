@@ -34,7 +34,7 @@
 <br> Lightpad : https://github.com/libredeb/lightpad</br>
 <br> Icons (Os-catalina) : https://github.com/zayronxio/Os-catalina-icons</br>
 <br> Themes (WhiteSur) : https://github.com/vinceliuice/WhiteSur-gtk-theme</br>
-<br> Plank themes : https://www.gnome-look.org/p/1399398//</br>
+<br> Plank themes : https://www.gnome-look.org/p/1399398</br>
 <br> Plymouth : https://github.com/pear-project-community/pearOS-plymouth</br>
 <br> Cursor : https://github.com/ful1e5/apple_cursor</br>
  
