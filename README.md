@@ -19,15 +19,14 @@
 
 ## Include apps
 
-- <h4> Accessories :</h4> 
-- <h4> Games :</h4> 
-- <h4> Graphics :</h4> 
-- <h4> Internet :</h4> 
-- <h4> Office :</h4> 
-- <h4> Programming :</h4> 
-- <h4> Sound and Video </h4> 
-- <h4> Others :</h4> 
-- <h4> pearOS Apps :</h4> 
+- <h4> Accessories :</h4> GNOME Calculator, GNOME Maps, GNOME Disks, MenuLibre, Gedit, Nautilus, GNOME Clock, GNOME Books, Bijiden, GNOME Font-viewer, Deja-dup, GNOME To-Do, GNOME Screenshot, GNOME Weather
+- <h4> Games :</h4> Nothing.
+- <h4> Graphics :</h4> GNOME Photos, EoG
+- <h4> Internet :</h4> gPodder, GNOME Feeds, Elementary Mail, Firefox, Polari, GNOME Web 
+- <h4> Office :</h4> GNOME Calendar, Evince
+- <h4> Programming :</h4> Gambas (DO NOT REMOVE THAT)
+- <h4> Sound and Video </h4> Cheese, Elementary Music, Hypnotix, gPodder, GNOME Sound-recorder, VLC
+- <h4> pearOS Apps :</h4> About this pearintosh, USB-Utility
 
 ## Source of software using 
 
