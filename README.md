@@ -1,4 +1,4 @@
-# pearOS-Ventura
+# pearOS-Sonoma
 <div align='center'>
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/942205876159283281/976960397439545445/sur-template30.png" alt="drawing" width="200"/>
